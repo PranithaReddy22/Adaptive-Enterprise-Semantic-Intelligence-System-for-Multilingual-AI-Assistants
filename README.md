@@ -163,10 +163,5 @@ Potential enhancements include:
 
 ---
 
-## Hackathon Project
-This project was developed as part of a hackathon prototype to demonstrate how context-aware semantic reasoning can improve AI assistants in enterprise environments.
-
----
-
 ## Author
 Pranitha K
